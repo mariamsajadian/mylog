@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Writes a CSV copy of the Tomcat logs to the defined Sharepoint directory.
-"""
+
 
 __author__ = "me"
 __copyright__ = "Copyright 2021"
