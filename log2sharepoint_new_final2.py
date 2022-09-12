@@ -3,11 +3,11 @@
 Writes a CSV copy of the Tomcat logs to the defined Sharepoint directory.
 """
 
-__author__ = "Jonaline Beemster, Antony den Dulk"
-__copyright__ = "Copyright 2021, Taxonic B.V."
+__author__ = "me"
+__copyright__ = "Copyright 2021"
 __license__ = "Proprietory"
-__maintainer__ = "Jonaline Beemster"
-__email__ = "jonaline.beemster@taxonic.com"
+__maintainer__ = "me"
+__email__ = "me"
 
 
 import os
